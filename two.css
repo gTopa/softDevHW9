@@ -1,0 +1,5 @@
+body{color:red}
+p{font-size: 12pt;color:blue;-webkit-column-count:3}
+li{color:purple}
+ul{border:2px solid grey;padding: 20px 20px;border-radius:30px;width: 100px}
+a{cursor: hand}
