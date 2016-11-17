@@ -1,0 +1,23 @@
+.extreme{
+    color:#C6C5B9;
+}
+
+.navzone{
+    cursor:hand;color:#546A7B;border: 2px solid #62929E;
+}
+
+.content{
+    color:#62929E;background-color:#393D3F;
+}
+
+.prose{
+    color:black;-webkit-column-count:2;background-color:white;
+}
+
+#head1{
+    background-color:#546A7B;
+}
+
+#tehlulz{
+    border:1px solid black; width:20px;
+}
