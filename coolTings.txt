@@ -1,0 +1,7 @@
+#tehlulz;visited
+#tehlulz:hover
+text-shadow:.1em .1em 6px
+word-spacing: 60px
+content:">"
+background-image: url("bliss.jpg")
+background: linear-gradient(to right,#000080,#3a6ea5)
